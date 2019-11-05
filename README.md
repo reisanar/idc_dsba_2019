@@ -2,7 +2,7 @@
 
 Test repo for FL 2019 group.
 
-> [RSA](https://www.reisanar.com/) @`reisanar` on GitHub
+> [RSA](https://www.reisanar.com/) @`reisanar` on GitHub :bar_chart: 
 
 - _Student 1_
 
